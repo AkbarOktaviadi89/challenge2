@@ -13,7 +13,7 @@ public class Main {
             new Food("Nasi Goreng\t ", 15000),
             new Food("Mie Goreng\t", 13000),
             new Food("Nasi + Ayam\t", 18000),
-            new Food("Es Teh Manis ", 3000),
+            new Food("Es Teh Manis\t", 3000),
             new Food("Es Jeruk  \t", 5000)
     ));
 
