@@ -106,13 +106,13 @@ public class Order implements IMenu {
             for (OrderItem item : items) {
                 long subtotal = (long) item.getItemPrice() * item.getItemQty();
                 String formattedPrice = decimalFormat.format((long) item.getItemPrice() * item.getItemQty());
-                String strukItem = item.getItemName() + item.getItemQty() + "Rp. " + formattedPrice;
+                String strukItem = item.getItemName() + "\t" + item.getItemQty() + "\t" + "Rp. " + formattedPrice;
                 StructWr.write(strukItem);
                 StructWr.newLine();
             }
 
             StructWr.write("-------------------------------+\n");
-            StructWr.write("Total \t" + totalQty + "\t" + "Rp. " + totalPrice);
+            StructWr.write("Total \t\t\t" + totalQty + "\t" + "Rp. " + totalPrice);
             StructWr.newLine();
             StructWr.write("\n\nPembayaran : BinarCash\n\n");
 
