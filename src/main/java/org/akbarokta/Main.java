@@ -10,7 +10,7 @@ public class Main {
     static Scanner input = new Scanner(System.in);
     static Order order = new Order();
     static List<Food> foodList = new ArrayList<>(Arrays.asList(
-            new Food("Kwetiaw Goreng", 15000),
+            new Food("Kwetiaw Goreng ", 15000),
             new Food("Mie Goreng\t", 13000),
             new Food("Nasi + Ayam\t", 18000),
             new Food("Es Teh Manis ", 3000),
