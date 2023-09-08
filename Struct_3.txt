@@ -1,0 +1,21 @@
+=============================
+Binar Food
+=============================
+
+Terima kasih sudah memesan 
+di Binar Food
+
+Dibawah ini adalah pesanan anda
+
+Mie Goreng		50	Rp. 650,000
+Es Jeruk  		51	Rp. 255,000
+-------------------------------+
+Total 			101	Rp. 905000
+
+
+Pembayaran : BinarCash
+
+=============================
+Simpan Struk ini sebagai 
+bukti pembayaran
+=============================
