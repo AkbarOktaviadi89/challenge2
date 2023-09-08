@@ -1,0 +1,24 @@
+=============================
+Binar Food
+=============================
+
+Terima kasih sudah memesan 
+di Binar Food
+
+Dibawah ini adalah pesanan anda
+
+Nasi Goreng	 	1	Rp. 15,000
+Mie Goreng		2	Rp. 26,000
+Nasi + Ayam		3	Rp. 54,000
+Es Teh Manis 	1	Rp. 3,000
+Es Jeruk  		1	Rp. 5,000
+-------------------------------+
+Total 			8	Rp. 103000
+
+
+Pembayaran : BinarCash
+
+=============================
+Simpan Struk ini sebagai 
+bukti pembayaran
+=============================
